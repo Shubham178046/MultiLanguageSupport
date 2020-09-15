@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicación multi idioma</string>
+    <string name="navigation_drawer_open">Cajón de navegación abierto.</string>
+    <string name="navigation_drawer_close">Cerrar el cajon de navegacion</string>
+    <string name="nav_header_title">Shubham Rai</string>
+    <string name="nav_header_subtitle">http://shubham-itworld.website2.me/</string>
+    <string name="nav_header_desc">Android \u0026 Blog del desarrollador de Android</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="description_androidwave">Demostramos android \u0026 Tutoriales de desarrollo de aplicaciones
+    iOS para Firebase, Camera2 API, Exo Player, Youtube API, Dagger2, RxJava, MVVM, MVP, Realm y más</string>
+    <!-- Navigation Menu-->
+    <string name="title_import">Importar</string>
+    <string name="title_gallery">Galería</string>
+    <string name="title_slideshow">Diapositivas</string>
+    <string name="title_tools">Herramientas</string>
+    <string name="title_communication">Comunicar</string>
+    <string name="title_share">Compartir</string>
+    <string name="title_send">Enviar</string>
+</resources>
